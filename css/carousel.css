@@ -39,11 +39,17 @@ body {
 
 .jumbotron {
   color: black;
-  font-weight: bold;
-}
+  text-align: center;
+  }
 
-.jumbotron > p {
-  font-size: 1.5em;
+.jumbotron h1{
+  font-size: 75px;
+  letter-spacing: 2px;
+ }
+
+.jumbotron  p{
+  font-weight: bold;
+  font-size: 25px;
 }
 
 /* CUSTOMIZE THE CAROUSEL

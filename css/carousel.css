@@ -45,11 +45,14 @@ body {
 .jumbotron h1{
   font-size: 75px;
   letter-spacing: 2px;
+  font-family: 'Ultra', serif;
+  color: #000;
  }
 
 .jumbotron  p{
   font-weight: bold;
   font-size: 25px;
+  font-family: 'Cinzel Decorative', cursive;
 }
 
 /* CUSTOMIZE THE CAROUSEL
@@ -95,6 +98,15 @@ body {
 .marketing .col-lg-4 p {
   margin-right: 10px;
   margin-left: 10px;
+}
+
+h2.mkt {
+  font-family: 'Cinzel', cursive;
+}
+
+p.mkt {
+  font-family: 'Muli', sans-sserif;
+
 }
 
 
@@ -171,5 +183,4 @@ top: 0px;
 .container, .form {
     margin: 0 auto;
     text-align: center;
-    }
-
+}
